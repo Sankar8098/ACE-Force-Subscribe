@@ -42,11 +42,11 @@ async def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/ACE_ML"),
-                           InlineKeyboardButton("Support Group", url="https://t.me/ACE_OffTopic")
+                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/SK_MoviesOffl"),
+                           InlineKeyboardButton("Support Group", url="https://t.me/SK_MoviesOffl")
                       ],
                      [
-                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/FlashSpeedster1")
+                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/sankar2k02")
                      ]
                  ]
              ),
@@ -59,11 +59,11 @@ async def _start(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/ACE_ML"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/ACE_OffTopic")
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/SK_MoviesOffl"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/SK_MoviesOffl")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/FlashSpeedster1")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/sankar2k02")
                 ]
             ]
         ),
@@ -82,11 +82,11 @@ async def _source_code(client, message):
                     InlineKeyboardButton("🌐 Source Code 🌐", url="https://t.me/ACE_ML")
                 ],
                 [
-                    InlineKeyboardButton("🌟 Join Channel", url="https://t.me/ACE_ML"),
-                    InlineKeyboardButton("💬 Support Group", url="https://t.me/ACE_OffTopic")
+                    InlineKeyboardButton("🌟 Join Channel", url="https://t.me/SK_MoviesOffl"),
+                    InlineKeyboardButton("💬 Support Group", url="https://t.me/SK_MoviesOffl")
                 ],
                 [
-                    InlineKeyboardButton("👨‍💻 Developer 🧑‍💻", url="https://t.me/FlashSpeedster1")
+                    InlineKeyboardButton("👨‍💻 Developer 🧑‍💻", url="https://t.me/sankar2k02")
                 ]
             ]
         ),
